@@ -102,8 +102,8 @@ work:
     company_name: Nurse Training Australia, Sydney
     company_url: ''
     company_logo: ''
-    date_start: 
-    date_end: 
+    date_start: 2018-01-01
+    date_end: 2020-01-01
     summary: |
       Responsibilities include:
       - Reviewed requirements for IT processes and integrations, including Student Management systems like VETtrak, RTO-Manager, Online Systems, Canvas, and E-zone.
