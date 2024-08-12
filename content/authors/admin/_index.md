@@ -102,8 +102,8 @@ work:
     company_name: Nurse Training Australia, Sydney
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: 20224-07-28
+    date_start: 
+    date_end: 
     summary: |
       Responsibilities include:
       - Reviewed requirements for IT processes and integrations, including Student Management systems like VETtrak, RTO-Manager, Online Systems, Canvas, and E-zone.
@@ -113,8 +113,8 @@ work:
     company_name: Chargebee, Chennai
     company_url: https://www.chargebee.com
     company_logo: ''
-    date_start: 2014-01-01
-    date_end: 2015-05-28
+    date_start: 
+    date_end: 
     summary: |
       Responsibilities include:
       - Conducted manual testing, including requirements gathering and test case creation.
