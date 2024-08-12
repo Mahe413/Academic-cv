@@ -92,9 +92,9 @@ work:
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Collaborated with cross-functional teams using Agile Methodology to review requirements, lead testing efforts, and ensure alignment with project goals across various test phases.
+      - Automated tests using Selenium WebDriver with Python/JavaScript and Jenkins, developing and maintaining test automation frameworks.
+      - Executed and tracked tests in Azure DevOps, ensuring comprehensive test coverage and high-quality standards throughout the software development lifecycle.
   - position: IT Support
     company_name: Nurse Training Australia, Sydney
     company_url: ''
@@ -104,8 +104,8 @@ work:
     summary: |
       Responsibilities include:
       - Reviewed requirements for IT processes and integrations, including Student Management systems like VETtrak, RTO-Manager, Online Systems, Canvas, and E-zone.
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Managed private storage, digital solutions, hardware installation, software configuration, networks, printers, scanners, and provided technical support for various systems.
+      - Monitored and maintained systems, ensured network and data security, managed network access, backup systems, timely response to technical issues, account setup, and created IT documentation and tutorials.
   - position: Associate Test Analyst
     company_name: Chargebee, Chennai
     company_url: https://www.chargebee.com
