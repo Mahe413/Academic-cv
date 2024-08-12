@@ -84,7 +84,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
+  - position: Test Analyst
     company_name: GenCoin
     company_url: ''
     company_logo: ''
@@ -95,7 +95,7 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
+  - position: IT Support
     company_name: X
     company_url: ''
     company_logo: ''
@@ -142,11 +142,11 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: Telugu
     percent: 100
-  - name: Chinese
+  - name: English
     percent: 75
-  - name: Portuguese
+  - name: Hindi
     percent: 25
 
 # Awards.
