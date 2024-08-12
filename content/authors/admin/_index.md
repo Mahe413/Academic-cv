@@ -113,8 +113,8 @@ work:
     company_name: Chargebee, Chennai
     company_url: https://www.chargebee.com
     company_logo: ''
-    date_start: 
-    date_end: 
+    date_start: 2015-01-01
+    date_end: 2014-01-01
     summary: |
       Responsibilities include:
       - Conducted manual testing, including requirements gathering and test case creation.
