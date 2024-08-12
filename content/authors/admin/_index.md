@@ -57,44 +57,44 @@ education:
     date_start: 2015-07-01
     date_end: 2017-07-28
     summary: |
-      Project  on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      GPA: 3.6/4.0
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Bachelor of Technology
+    institution: Jawaharlal Nehru Technological University
+    date_start: 2010-01-01
+    date_end: 2014-12-31
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.4/4.0
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Certified in Testing & Artificial Intelligence
+    institution: ISTQB ( International Software Testing Qualifications Board )
+    date_start: 2024-01-01
+    date_end: 2024-107-28
     summary: |
-      GPA: 3.4/4.0
+      SCORE: 32/40
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Test Analyst
+    company_name: Meshed Group, Sydney
     company_url: ''
     company_logo: ''
     date_start: 2021-01-01
-    date_end: ''
+    date_end: 2023-07-28
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Collaborated with cross-functional teams using Agile Methodology to review requirements, lead testing efforts, and ensure alignment with project goals across various test phases.
+      - Automated tests using Selenium WebDriver with Python/JavaScript and Jenkins, developing and maintaining test automation frameworks.
+      - Executed and tracked tests in Azure DevOps, ensuring comprehensive test coverage and high-quality standards throughout the software development lifecycle.
   - position: Backend Software Engineer
     company_name: X
     company_url: ''
@@ -103,9 +103,9 @@ work:
     date_end: 2020-12-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Reviewed requirements for IT processes and integrations, including Student Management systems like VETtrak, RTO-Manager, Online Systems, Canvas, and E-zone.
+      - Managed private storage, digital solutions, hardware installation, software configuration, networks, printers, scanners, and provided technical support for various systems.
+      - Monitored and maintained systems, ensured network and data security, managed network access, backup systems, timely response to technical issues, account setup, and created IT documentation and tutorials.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
