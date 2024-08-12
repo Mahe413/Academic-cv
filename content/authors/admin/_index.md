@@ -85,7 +85,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Test Analyst
-    company_name: GenCoin
+    company_name: Meshed Group, Sydney
     company_url: ''
     company_logo: ''
     date_start: 2021-01-01
@@ -106,7 +106,7 @@ work:
       - Migrated infrastructure to a new data center
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: IT Support
+  - position: Associate Test Analyst
     company_name: X
     company_url: ''
     company_logo: ''
