@@ -96,7 +96,7 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position: IT Support
-    company_name: X
+    company_name: Nurse Training Australia, Sydney
     company_url: ''
     company_logo: ''
     date_start: 2016-01-01
@@ -107,8 +107,8 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position: Associate Test Analyst
-    company_name: X
-    company_url: ''
+    company_name: Chargebee, Chennai
+    company_url: https://www.chargebee.com
     company_logo: ''
     date_start: 2016-01-01
     date_end: 2020-12-31
