@@ -58,9 +58,9 @@ education:
     date_end: 2017-07-28
     summary: |
       Course included:
-      - Experienced in electronics and wireless communications.
-      - Knowledgeable in TCP/IP, routing protocols, and network architecture.
-      - Skilled in database design and the Internet of Things (IoT).
+      - Proficient in programming with Python and working with database systems like SQL.
+      - Experienced in web development using HTML, CSS, and JavaScript.
+      - Knowledgeable in software-defined networking, security, cloud computing, and project management.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -102,8 +102,8 @@ work:
     company_name: Nurse Training Australia, Sydney
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2021-01-01
+    date_end: 20224-07-28
     summary: |
       Responsibilities include:
       - Reviewed requirements for IT processes and integrations, including Student Management systems like VETtrak, RTO-Manager, Online Systems, Canvas, and E-zone.
@@ -113,8 +113,8 @@ work:
     company_name: Chargebee, Chennai
     company_url: https://www.chargebee.com
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2014-01-01
+    date_end: 2015-05-28
     summary: |
       Responsibilities include:
       - Conducted manual testing, including requirements gathering and test case creation.
@@ -130,7 +130,7 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: Automation Testing tools
         description: ''
         percent: 100
         icon: chart-bar
@@ -142,11 +142,11 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Travelling
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Video editing
         description: ''
         percent: 100
         icon: cat
