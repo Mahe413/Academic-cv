@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳健雄
+title: మహేంద్రరెడ్డి దేవగిరి
 
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu
