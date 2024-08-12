@@ -57,7 +57,10 @@ education:
     date_start: 2015-07-01
     date_end: 2017-07-28
     summary: |
-      Project  on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Course included:
+      - Experienced in electronics and wireless communications.
+      - Knowledgeable in TCP/IP, routing protocols, and network architecture.
+      - Skilled in database design and the Internet of Things (IoT).
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -68,10 +71,10 @@ education:
     summary: |
       GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Course included:
+      - Experienced in electronics and wireless communications.
+      - Knowledgeable in TCP/IP, routing protocols, and network architecture.
+      - Skilled in database design and the Internet of Things (IoT).
   - area: Testing with Automation & Artificial intelligence 
     institution: ISTQB (International Software Testing Qualifications Board)
     date_start: 2024-01-01
@@ -79,10 +82,10 @@ education:
     summary: |
       GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Outcome :
+      - Certified in ISTQB (Foundation) and experienced in Agile, test automation, and cloud infrastructure (AWS, Azure, Oracle).
+      - Proficient in tools like Tosca, Playwright, Appium, Cucumber (BDD), Bugzilla, Git, SQL, Postman (API testing), and collaboration tools like JIRA, Confluence, Azure DevOps, and Slack, with experience across Windows, Linux, and MacOS.
+      - Skilled in Python, JavaScript, JUnit/TestNG, performance testing, penetration testing, mobile testing, unit testing, Java, NoSQL databases, cloud testing, virtualization, containerization, cloud-based LLM fine-tuning, AI chatbot creation, and big data, with strong academic scores in GRE (305/340) and PTE (82/90).
 work:
   - position: Test Analyst
     company_name: Meshed Group, Sydney
