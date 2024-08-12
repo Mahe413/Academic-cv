@@ -103,7 +103,7 @@ work:
     date_end: 2020-12-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
+      - Reviewed requirements for IT processes and integrations, including Student Management systems like VETtrak, RTO-Manager, Online Systems, Canvas, and E-zone.
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position: Associate Test Analyst
@@ -115,8 +115,8 @@ work:
     summary: |
       Responsibilities include:
       - Conducted manual testing, including requirements gathering and test case creation.
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Performed usability, checklist-based, accessibility, and compatibility testing.
+      - Executed tests, tracked defects, and reported findings.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
