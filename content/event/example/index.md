@@ -41,10 +41,10 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: 'https://github.com'
+# url_code: 'https://github.com'
 url_pdf: ''
 url_slides: 'https://docs.google.com/presentation/d/1LS_VffvhwKrvfp_qd2-tWvX1cB17HVshjgIVNtQs-Gw/edit?usp=sharing'
-url_video: 'https://youtube.com'
+url_video: 'https://www.youtube.com/watch?v=z-Q6y_pOduY'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
