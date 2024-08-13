@@ -63,13 +63,17 @@ projects:
 ---
 
 {{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
+Click on the **Slides** or **Video** button above to view the relevant slides and videos .
 {{% /callout %}}
 
-Slides can be added in a few ways:
-
-- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
-
-Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
+Key issues mentioned : 
+- **The speaker** is the GM of Preactor Solutions, a talent solutions business.
+- Companies are shifting their mindset on hiring, focusing on skills and [_data-driven insights_](https://www.google.com/).
+- They are using data to understand skills taxonomy, future-proof their workforce, and identify emerging skills.
+- The talent life cycle is becoming shorter, and companies are focusing on the entire employee experience.
+- Preactor helps companies with talent intelligence and market insights to build sustainable hiring strategies.
+- They focus on a 'skills-based approach' to remove bias and subjectivity from hiring.
+- Emerging skills, particularly in AI, are becoming increasingly important.
+- The panel discussed employability, the future of software testing, and the impact of AI.
+- Continuous learning, understanding your niche, and building a personal brand are key for career success.
+- Testers will continue to be in demand, and AI will be a valuable tool for testers.
