@@ -1,19 +1,19 @@
 ---
-title: Example Talk
+title: Favourite Talk
 
-event: Hugo Blox Builder Conference
+event: Testing Talks Conference 2023 Sydney
 event_url: https://example.org
 
-location: Hugo Blox Builder HQ
+location: Sydney CBD
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: Buildign 23, Kent street
+  city: Sydney
+  region: NSW
+  postcode: '2000'
+  country: AUSTRALIA
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: Future-proofing your career in software testing.
+abstract: 'The speakers, Jason, Sam, and Alejandro, shared their insights on future-proofing your career in software testing. They emphasized continuous learning, a skills-based approach, and embracing emerging technologies. Personal branding and networking were also highlighted as essential for remaining employable in a changing market.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
