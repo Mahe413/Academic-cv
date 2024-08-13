@@ -40,7 +40,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/mahendrareddy-devagiri-b22630240
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
@@ -61,9 +61,6 @@ education:
       - Proficient in programming with Python and working with database systems like SQL.
       - Experienced in web development using HTML, CSS, and JavaScript.
       - Knowledgeable in software-defined networking, security, cloud computing, and project management.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
   - area: Bachelor of Technology
     institution: Jawaharlal Nehru Technological University
     date_start: 2010-01-01
@@ -86,6 +83,9 @@ education:
       - Certified in ISTQB (Foundation) and experienced in Agile, test automation, and cloud infrastructure (AWS, Azure, Oracle).
       - Proficient in tools like Tosca, Playwright, Appium, Cucumber (BDD), Bugzilla, Git, SQL, Postman (API testing), and collaboration tools like JIRA, Confluence, Azure DevOps, and Slack, with experience across Windows, Linux, and MacOS.
       - Skilled in Python, JavaScript, JUnit/TestNG, performance testing, penetration testing, mobile testing, unit testing, Java, NoSQL databases, cloud testing, virtualization, containerization, cloud-based LLM fine-tuning, AI chatbot creation, and big data, with strong academic scores in GRE (305/340) and PTE (82/90).
+      button:
+      text: 'Check Credentials'
+      url: 'https://www.linkedin.com/in/mahendrareddy-devagiri-b22630240'
 work:
   - position: Test Analyst
     company_name: Meshed Group, Sydney
