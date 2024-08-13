@@ -43,7 +43,7 @@ image:
 #    url: https://twitter.com/georgecushen
 url_code: 'https://github.com'
 url_pdf: ''
-url_slides: 'https://slideshare.net'
+url_slides: 'https://docs.google.com/presentation/d/1LS_VffvhwKrvfp_qd2-tWvX1cB17HVshjgIVNtQs-Gw/edit?usp=sharing'
 url_video: 'https://youtube.com'
 
 # Markdown Slides (optional).
