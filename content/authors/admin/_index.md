@@ -83,7 +83,7 @@ education:
       - Certified in ISTQB (Foundation) and experienced in Agile, test automation, and cloud infrastructure (AWS, Azure, Oracle).
       - Proficient in tools like Tosca, Playwright, Appium, Cucumber (BDD), Bugzilla, Git, SQL, Postman (API testing), and collaboration tools like JIRA, Confluence, Azure DevOps, and Slack, with experience across Windows, Linux, and MacOS.
       - Skilled in Python, JavaScript, JUnit/TestNG, performance testing, penetration testing, mobile testing, unit testing, Java, NoSQL databases, cloud testing, virtualization, containerization, cloud-based LLM fine-tuning, AI chatbot creation, and big data, with strong academic scores in GRE (305/340) and PTE (82/90).
-      button:
+    button:
       text: 'Check Credentials'
       url: 'https://www.linkedin.com/in/mahendrareddy-devagiri-b22630240'
 work:
